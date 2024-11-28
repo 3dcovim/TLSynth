@@ -27,15 +27,19 @@ PENDING...
 
 # Authors
 This development belongs to the Computer Vision & 3D Modelling Laboratory (3DCo-Vim) research group.
+
 <picture>
   <img alt="3DCo-Vim Logo." src="https://3dcovim.cms.unex.es/wp-content/uploads/sites/2/2023/03/cropped-cropped-Imagen23-1-2.png">
 </picture>
+
 Website: https://3dcovim.cms.unex.es/
 
 # License
 These files are licensed under the Creative Commons Attribution license (CC BY 4.0)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://licensebuttons.net/l/by-nc/3.0/88x31.png">
   <img alt="License" src="https://licensebuttons.net/l/by-nc/3.0/88x31.png">
 </picture>
+
 https://creativecommons.org/licenses/by-nc/4.0/
