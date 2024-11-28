@@ -24,6 +24,7 @@ The current version of this add-on provides the following features:
 # Citation
 Reference this work:
 PENDING...
+
 # Authors
 This development belongs to the Computer Vision & 3D Modelling Laboratory (3DCo-Vim) research group.
 Click on the 3DCo-Vim to open the website of the group.
@@ -32,6 +33,7 @@ Click on the 3DCo-Vim to open the website of the group.
   <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/IDSr4TW">
   <img alt="3DCo-Vim Logo." src="https://3dcovim.cms.unex.es/">
 </picture>
+
 # License
 These files are licensed under the Creative Commons Attribution license (CC BY 4.0)
 <picture>
