@@ -27,12 +27,10 @@ PENDING...
 
 # Authors
 This development belongs to the Computer Vision & 3D Modelling Laboratory (3DCo-Vim) research group.
-Click on the 3DCo-Vim to open the website of the group.
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/a/IDSr4TW">
-  <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/IDSr4TW">
   <img alt="3DCo-Vim Logo." src="https://imgur.com/a/IDSr4TW">
 </picture>
+Website: https://3dcovim.cms.unex.es/
 
 # License
 These files are licensed under the Creative Commons Attribution license (CC BY 4.0)
