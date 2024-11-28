@@ -10,7 +10,7 @@ The goal of this Blender is double:
   <source media="(prefers-color-scheme: light)" srcset="">
   <img alt="Shows a feature of this application." src="">
 </picture>
-
+https://imgur.com/a/rNrq34j
 # Features
 The current version of this add-on provides the following features:
 * Definition of angle and range for every scanner
@@ -24,8 +24,14 @@ The current version of this add-on provides the following features:
 # Citation
 Reference this work:
 PENDING...
-
-
+# Authors
+This development belongs to the Computer Vision & 3D Modelling Laboratory (3DCo-Vim) research group.
+Click on the 3DCo-Vim to open the website of the group.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="(https://imgur.com/a/rNrq34j">
+  <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/rNrq34j">
+  <img alt="3DCo-Vim Logo." src="https://3dcovim.cms.unex.es/">
+</picture>
 # License
 These files are licensed under the Creative Commons Attribution license (CC BY 4.0)
 <picture>
