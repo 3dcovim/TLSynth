@@ -10,7 +10,7 @@ The goal of this Blender is double:
   <source media="(prefers-color-scheme: light)" srcset="">
   <img alt="Shows a feature of this application." src="">
 </picture>
-https://imgur.com/a/rNrq34j
+
 # Features
 The current version of this add-on provides the following features:
 * Definition of angle and range for every scanner
