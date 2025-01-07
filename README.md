@@ -1,4 +1,4 @@
-# TLSynth-V.1
+# TLSynth-V.2
 Add-on for Blender: Laser scanner simulator of 3D environments defined by meshes in Blender.
 
 The goal of this Blender is double:
