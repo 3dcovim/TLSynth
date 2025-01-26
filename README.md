@@ -24,7 +24,7 @@ The current version of this add-on provides the following features:
 # Citation
 Reference this work:
 
-[https://doi.org/10.3390/rs17030421](url)
+[https://doi.org/10.3390/rs17030421](https://doi.org/10.3390/rs17030421)
 
 **MDPI and ACS Style**
 
