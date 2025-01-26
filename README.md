@@ -23,7 +23,24 @@ The current version of this add-on provides the following features:
 
 # Citation
 Reference this work:
-PENDING...
+
+[https://doi.org/10.3390/rs17030421](url)
+
+**MDPI and ACS Style**
+
+Pérez, E.; Sánchez-Hermosell, A.; Merchán, P. TLSynth: A Novel Blender Add-On for Real-Time Point Cloud Generation from 3D Models. Remote Sens. 2025, 17, 421. https://doi.org/10.3390/rs17030421
+
+**AMA Style**
+
+Pérez E, Sánchez-Hermosell A, Merchán P. TLSynth: A Novel Blender Add-On for Real-Time Point Cloud Generation from 3D Models. Remote Sensing. 2025; 17(3):421. https://doi.org/10.3390/rs17030421
+Chicago/Turabian Style
+
+Pérez, Emiliano, Adolfo Sánchez-Hermosell, and Pilar Merchán. 2025. "TLSynth: A Novel Blender Add-On for Real-Time Point Cloud Generation from 3D Models" Remote Sensing 17, no. 3: 421. https://doi.org/10.3390/rs17030421
+
+**APA Style**
+
+Pérez, E., Sánchez-Hermosell, A., & Merchán, P. (2025). TLSynth: A Novel Blender Add-On for Real-Time Point Cloud Generation from 3D Models. Remote Sensing, 17(3), 421. https://doi.org/10.3390/rs17030421
+
 
 # Authors
 This development belongs to the Computer Vision & 3D Modelling Laboratory (3DCo-Vim) research group.
